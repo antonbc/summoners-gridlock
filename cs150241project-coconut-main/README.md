@@ -1,1 +1,3 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/SsQ6IvG7)
+Modified Chess game wherein players can capture at most 3 pieces and each player can perform 3 moves per turn. Winner is decided when the summoners are unable to move.
+
+Summoners - located at (0,1), (0,3), (5, 1), (5, 3)
