@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "network"
+version = "0.1.0"
+description = ""
+authors = ["ResaiMangco <ramangco1@up.edu.ph>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.13"
+cs150241project-networking = {git = "https://github.com/UPD-CS150-241/cs150241project_networking"}
+pygame = "^2.6.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
